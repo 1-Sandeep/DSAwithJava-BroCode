@@ -3,7 +3,7 @@ This repo is about the Data Structures and Algorithm I have learned from Bro Cod
 
 ## Day-1 : Stack
 Today I learned about the Stack. From declaring a Stack to initializing a Stack and opreations of Stack as well
-
+Code is here : [https://github.com/1-Sandeep/DSAwithJava-BroCode/blob/master/src/Day1_Brocode_Stack/Brocode_Stack.java]
 **Stack Operations**
 
 |S.N.|Stack Operations|Task|
