@@ -19,7 +19,7 @@ Today I learned about the Stack. From declaring a Stack to initializing a Stack 
 ## Day-2 : Queue
 
 Today I learned about the Queue. From declaring a Queue to initializing a Queue and methods of Stack as well
-[Code is here: ](https://github.com/1-Sandeep/DSAwithJava-BroCode/blob/master/src/Day1_Brocode_Queue/Brocode_Queue.java)
+[Code is here: ](https://github.com/1-Sandeep/DSAwithJava-BroCode/blob/master/src/Day2_Brocode_Queue/Brocode_Queue.java)
 
 **Queue Methods**
 
